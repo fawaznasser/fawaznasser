@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:22D3EE&height=210&section=header&text=Fawaz%20Nasser&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=60" width="100%" alt="Fawaz Nasser — Full-Stack Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:22D3EE&height=210&section=header&text=Fawaz%20Nasser&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Engineer&descAlignY=60" width="100%" alt="Fawaz Nasser — Ai Full-Stack Engineer" />
 </p>
 
 <h3 align="center">Web & Mobile · AI Workflows · Geospatial Data · Cloud Applications</h3>
@@ -13,7 +13,7 @@
 
 ## About me
 
-I'm Fawaz, a **full-stack developer** building web and mobile applications, backend APIs, AI-assisted workflows, and data visualization tools.
+I'm Fawaz, a **ai full-stack engineer** building web and mobile applications, backend APIs, AI-assisted workflows, and data visualization tools.
 
 My work spans **React and TypeScript interfaces**, **Node.js and Python backends**, **cross-platform mobile apps**, and **AWS serverless services**. I enjoy connecting these pieces into applications that help people understand data, automate tasks, and manage everyday work.
 
