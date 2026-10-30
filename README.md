@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:22D3EE&height=210&section=header&text=Fawaz%20Nasser&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Full-Stack%20Software%20Engineer&descAlignY=60" width="100%" alt="Fawaz Nasser — AI Full-Stack Software Engineer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:22D3EE&height=210&section=header&text=Fawaz%20Nasser&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=AI%20Full-Stack%20Software%20Engineer&descAlignY=60" width="100%" alt="Fawaz Nasser — AI Full-Stack Software Engineer" />
 </p>
 
-<h3 align="center">Web & Mobile · AI Workflows · Geospatial Data · Cloud Applications</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=2000&color=22D3EE&center=true&vCenter=true&width=900&height=55&lines=AI+Full-Stack+Software+Engineer;Building+web+and+mobile+applications;Connecting+AI%2C+data%2C+and+cloud" width="900" alt="AI Full-Stack Software Engineer — Web, mobile, AI, data, and cloud" />
+</p>
 
 <p align="center">
   <a href="#featured-projects">Featured projects</a> ·
@@ -13,13 +15,19 @@
 
 ## About me
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=1800&pause=4500&color=22D3EE&vCenter=true&width=720&height=46&repeat=true&lines=About%20me" width="720" alt="About me" />
+
 I'm Fawaz, an **AI full-stack software engineer** building web and mobile applications, backend APIs, AI-assisted workflows, and data visualization tools.
 
 My work spans **React and TypeScript interfaces**, **Node.js and Python backends**, **cross-platform mobile apps**, and **AWS serverless services**. I enjoy connecting these pieces into applications that help people understand data, automate tasks, and manage everyday work.
 
 ## Featured projects
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=1800&pause=4500&color=22D3EE&vCenter=true&width=720&height=46&repeat=true&lines=Featured%20projects" width="720" alt="Featured projects" />
+
 ### AI & automation
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=1800&pause=4500&color=22D3EE&vCenter=true&width=720&height=46&repeat=true&lines=AI%20%26%20automation" width="720" alt="AI &amp; automation" />
 
 | Project | What it does | Technologies |
 | --- | --- | --- |
@@ -29,6 +37,8 @@ My work spans **React and TypeScript interfaces**, **Node.js and Python backends
 
 ### Geospatial data & monitoring
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=1800&pause=4500&color=22D3EE&vCenter=true&width=720&height=46&repeat=true&lines=Geospatial%20data%20%26%20monitoring" width="720" alt="Geospatial data &amp; monitoring" />
+
 | Project | What it does | Technologies |
 | --- | --- | --- |
 | [cnrs-visualize](https://github.com/fawaznasser/cnrs-visualize) | Climate and flood data dashboard with raster tiles, product APIs, ingestion jobs, and analytics. | Python, Celery, Redis, Docker |
@@ -36,6 +46,8 @@ My work spans **React and TypeScript interfaces**, **Node.js and Python backends
 | [firemonitor](https://github.com/fawaznasser/firemonitor) | Arabic Telegram ingestion and location-aware alert mapping, with optional Ollama enrichment. | FastAPI, Next.js, Leaflet, SQLite |
 
 ### Web, mobile & cloud
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=1800&pause=4500&color=22D3EE&vCenter=true&width=720&height=46&repeat=true&lines=Web%2C%20mobile%20%26%20cloud" width="720" alt="Web, mobile &amp; cloud" />
 
 | Project | What it does | Technologies |
 | --- | --- | --- |
@@ -45,6 +57,8 @@ My work spans **React and TypeScript interfaces**, **Node.js and Python backends
 | [events-shceduler](https://github.com/fawaznasser/events-shceduler) | Event discovery backend with Ticketmaster integration, authentication, and saved favorites. | Python, FastAPI |
 
 ## Skills
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=1800&pause=4500&color=22D3EE&vCenter=true&width=720&height=46&repeat=true&lines=Skills" width="720" alt="Skills" />
 
 | Area | Technologies & experience |
 | --- | --- |
@@ -60,6 +74,8 @@ My work spans **React and TypeScript interfaces**, **Node.js and Python backends
 
 ### Skills in practice
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=1800&pause=4500&color=22D3EE&vCenter=true&width=720&height=46&repeat=true&lines=Skills%20in%20practice" width="720" alt="Skills in practice" />
+
 - **AI workflow integration:** ArcVault and Benchmark Analyzer combine automated processing with human review steps.
 - **Data pipelines and visualization:** cnrs-visualize, heatwatch, and firemonitor connect ingestion and processing to dashboards and maps.
 - **Cross-platform development:** Episense and encelyte demonstrate mobile interfaces backed by application services.
@@ -67,6 +83,8 @@ My work spans **React and TypeScript interfaces**, **Node.js and Python backends
 - **Concurrency fundamentals:** [C-project](https://github.com/fawaznasser/C-project) compares four pthread counting implementations using race conditions, mutexes, thread-local reduction, and cache padding.
 
 ## More projects
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=1800&pause=4500&color=22D3EE&vCenter=true&width=720&height=46&repeat=true&lines=More%20projects" width="720" alt="More projects" />
 
 <details>
 <summary><b>Explore additional web, mobile, mapping, and systems projects</b></summary>
@@ -92,5 +110,4 @@ My work spans **React and TypeScript interfaces**, **Node.js and Python backends
   <a href="https://github.com/fawaznasser?tab=repositories"><b>Explore my repositories →</b></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:22D3EE&height=100&section=footer" width="100%" alt="Decorative cyan wave" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:22D3EE&height=100&section=footer&animation=twinkling" width="100%" alt="Decorative cyan wave" />
