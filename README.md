@@ -1,113 +1,50 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:22D3EE&height=210&section=header&text=Fawaz%20Nasser&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=AI%20Full-Stack%20Software%20Engineer&descAlignY=60" width="100%" alt="Fawaz Nasser — AI Full-Stack Software Engineer" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=2000&color=22D3EE&center=true&vCenter=true&width=900&height=55&lines=AI+Full-Stack+Software+Engineer;Building+web+and+mobile+applications;Connecting+AI%2C+data%2C+and+cloud" width="900" alt="AI Full-Stack Software Engineer — Web, mobile, AI, data, and cloud" />
-</p>
-
-<p align="center">
-  <a href="#featured-projects">Featured projects</a> ·
-  <a href="#skills">Skills</a> ·
-  <a href="#more-projects">More projects</a> ·
-  <a href="https://github.com/fawaznasser?tab=repositories">All repositories</a>
-</p>
-
-## About me
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=1800&pause=4500&color=22D3EE&vCenter=true&width=720&height=46&repeat=true&lines=About%20me" width="720" alt="About me" />
-
-I'm Fawaz, an **AI full-stack software engineer** building web and mobile applications, backend APIs, AI-assisted workflows, and data visualization tools.
-
-My work spans **React and TypeScript interfaces**, **Node.js and Python backends**, **cross-platform mobile apps**, and **AWS serverless services**. I enjoy connecting these pieces into applications that help people understand data, automate tasks, and manage everyday work.
-
-## Featured projects
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=1800&pause=4500&color=22D3EE&vCenter=true&width=720&height=46&repeat=true&lines=Featured%20projects" width="720" alt="Featured projects" />
-
-### AI & automation
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=1800&pause=4500&color=22D3EE&vCenter=true&width=720&height=46&repeat=true&lines=AI%20%26%20automation" width="720" alt="AI &amp; automation" />
-
-| Project | What it does | Technologies |
-| --- | --- | --- |
-| [ArcVault · aspire-project](https://github.com/fawaznasser/aspire-project) | Request triage with classification, entity extraction, queue routing, human escalation, and audit output. | Node.js, optional model adapters |
-| [Benchmark Analyzer · Ai-workflowC](https://github.com/fawaznasser/Ai-workflowC) | Seven-step workflow with editable AI-generated content and approval steps. | React, Node.js, Express, OpenAI API |
-| [encelyte](https://github.com/fawaznasser/encelyte) | Client profiles, technology surveys, and AI-powered recommendations. | React Native, Expo, TypeScript, MongoDB Atlas |
-
-### Geospatial data & monitoring
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=1800&pause=4500&color=22D3EE&vCenter=true&width=720&height=46&repeat=true&lines=Geospatial%20data%20%26%20monitoring" width="720" alt="Geospatial data &amp; monitoring" />
-
-| Project | What it does | Technologies |
-| --- | --- | --- |
-| [cnrs-visualize](https://github.com/fawaznasser/cnrs-visualize) | Climate and flood data dashboard with raster tiles, product APIs, ingestion jobs, and analytics. | Python, Celery, Redis, Docker |
-| [heatwatch](https://github.com/fawaznasser/heatwatch) | Lebanon heat-stress mapping with shapefile uploads and five-day map image generation. | Python, JavaScript |
-| [firemonitor](https://github.com/fawaznasser/firemonitor) | Arabic Telegram ingestion and location-aware alert mapping, with optional Ollama enrichment. | FastAPI, Next.js, Leaflet, SQLite |
-
-### Web, mobile & cloud
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=1800&pause=4500&color=22D3EE&vCenter=true&width=720&height=46&repeat=true&lines=Web%2C%20mobile%20%26%20cloud" width="720" alt="Web, mobile &amp; cloud" />
-
-| Project | What it does | Technologies |
-| --- | --- | --- |
-| [Episense · oramala](https://github.com/fawaznasser/oramala) | Health-status monitoring, EEG document sharing, alert history, and guardian management. | React Native, Expo, Firebase |
-| [REMwaste](https://github.com/fawaznasser/REMwaste) | Skip-hire booking interface with size and price filtering. | React, TypeScript, Node.js, SQLite |
-| [CourseMastery](https://github.com/fawaznasser/coursemastery) | Course content and progress tracking backed by serverless APIs. | JavaScript, Node.js, AWS Lambda, API Gateway, Cognito, DynamoDB |
-| [events-shceduler](https://github.com/fawaznasser/events-shceduler) | Event discovery backend with Ticketmaster integration, authentication, and saved favorites. | Python, FastAPI |
-
-## Skills
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=1800&pause=4500&color=22D3EE&vCenter=true&width=720&height=46&repeat=true&lines=Skills" width="720" alt="Skills" />
-
-| Area | Technologies & experience |
-| --- | --- |
-| **Languages** | JavaScript, TypeScript, Python, C, Dart |
-| **Frontend** | React, Next.js, Vite, Tailwind CSS, shadcn/ui, responsive interfaces, RTL/LTR layouts |
-| **Backend & APIs** | Node.js, Express, FastAPI, authentication, external API integrations |
-| **Mobile** | React Native, Expo, Flutter, Firebase |
-| **AI & automation** | OpenAI API integration, model adapters, optional Ollama enrichment, request classification, entity extraction, approval workflows |
-| **Data & mapping** | Leaflet, raster tiles, shapefile workflows, climate dashboards, geographic event visualization |
-| **Cloud & infrastructure** | AWS Lambda, API Gateway, Cognito, DynamoDB, Docker, Celery, Redis |
-| **Databases** | MongoDB Atlas, SQLite, DynamoDB |
-| **Systems** | POSIX threads, synchronization, thread-local reduction, race-condition analysis |
-
-### Skills in practice
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=1800&pause=4500&color=22D3EE&vCenter=true&width=720&height=46&repeat=true&lines=Skills%20in%20practice" width="720" alt="Skills in practice" />
-
-- **AI workflow integration:** ArcVault and Benchmark Analyzer combine automated processing with human review steps.
-- **Data pipelines and visualization:** cnrs-visualize, heatwatch, and firemonitor connect ingestion and processing to dashboards and maps.
-- **Cross-platform development:** Episense and encelyte demonstrate mobile interfaces backed by application services.
-- **Cloud-backed applications:** CourseMastery connects application features to AWS authentication, storage, and serverless APIs.
-- **Concurrency fundamentals:** [C-project](https://github.com/fawaznasser/C-project) compares four pthread counting implementations using race conditions, mutexes, thread-local reduction, and cache padding.
-
-## More projects
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=1800&pause=4500&color=22D3EE&vCenter=true&width=720&height=46&repeat=true&lines=More%20projects" width="720" alt="More projects" />
-
-<details>
-<summary><b>Explore additional web, mobile, mapping, and systems projects</b></summary>
-
-| Project | Focus |
-| --- | --- |
-| [redalert](https://github.com/fawaznasser/redalert) | Rule-based Arabic Telegram alert parsing and geographic event visualization with FastAPI, Next.js, Leaflet, and SQLite. |
-| [tactical-report-project](https://github.com/fawaznasser/tactical-report-project) | Application with a Spring backend and Next.js frontend. |
-| [employees-management-system](https://github.com/fawaznasser/employees-management-system) | Employee management repository using TypeScript, with documented database setup and seed commands. |
-| [medical-website](https://github.com/fawaznasser/medical-website) | Web interface built with React, TypeScript, Vite, shadcn/ui, and Tailwind CSS. |
-| [ILG](https://github.com/fawaznasser/ILG) | Responsive law-firm landing page with RTL/LTR switching, built with React and Vite. |
-| [Aarafa-Layla](https://github.com/fawaznasser/Aarafa-Layla) | Bilingual Arabic/English mobile interface with authentication screens and animated transitions. |
-| [malaabak](https://github.com/fawaznasser/malaabak) | Expo application using TypeScript and file-based routing. |
-| [Nurse-management-system](https://github.com/fawaznasser/Nurse-management-system) | Flutter application using Dart. |
-| [sport-application](https://github.com/fawaznasser/sport-application) | Flutter application. |
-| [C-project](https://github.com/fawaznasser/C-project) | Concurrent counting implementations in C and POSIX threads. |
-| [scanner-software](https://github.com/fawaznasser/scanner-software) | TypeScript project. |
-| [ibtikar](https://github.com/fawaznasser/ibtikar) | HTML project. |
-
-</details>
-
-<p align="center">
-  <a href="https://github.com/fawaznasser?tab=repositories"><b>Explore my repositories →</b></a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:22D3EE&height=100&section=footer&animation=twinkling" width="100%" alt="Decorative cyan wave" />
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#080d17" />
+  <meta name="description" content="Fawaz Nasser — AI Full-Stack Software Engineer. AI workflows, web and mobile apps, geospatial dashboards, and automation." />
+  <title>Fawaz Nasser | AI Full-Stack Software Engineer</title>
+  <style>
+    :root { color-scheme: dark; --bg:#080d17; --panel:#101a2b; --panel2:#0b1422; --border:#22324a; --text:#edf5ff; --muted:#9cacc3; --cyan:#22d3ee; --blue:#5695ff; --green:#67e8b0; --shadow:0 18px 48px rgba(0,0,0,.25); }
+    * {box-sizing:border-box} html {scroll-behavior:smooth} body{margin:0;background:radial-gradient(ellipse 64% 26% at 50% -10%,rgba(34,211,238,.16),transparent),var(--bg);font:16px/1.65 system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;color:var(--text)}
+    a{color:inherit;text-decoration:none} a:focus-visible,button:focus-visible{outline:2px solid var(--cyan);outline-offset:4px} .wrap{width:min(1100px,calc(100% - 40px));margin:auto}
+    header{position:sticky;top:0;z-index:20;backdrop-filter:blur(15px);background:rgba(8,13,23,.85);border-bottom:1px solid rgba(160,184,216,.12)} nav{height:72px;display:flex;align-items:center;justify-content:space-between;gap:18px}.brand{font-size:21px;font-weight:850;letter-spacing:-.6px}.brand span{color:var(--cyan)}.navlinks{display:flex;align-items:center;gap:28px;font-size:14px;color:var(--muted)}.navlinks a:hover{color:var(--cyan)}
+    .hero{display:grid;grid-template-columns:1.3fr .7fr;align-items:center;gap:48px;padding:108px 0 96px}.eyebrow{display:inline-flex;align-items:center;gap:9px;font-size:12px;letter-spacing:2.3px;font-weight:800;text-transform:uppercase;color:var(--cyan)} .dot{width:7px;height:7px;background:var(--green);border-radius:50%;box-shadow:0 0 13px var(--green)} h1{font-size:clamp(43px,6.8vw,78px);line-height:1.07;margin:19px 0 22px;letter-spacing:-3px;font-weight:850} h1 span{background:linear-gradient(90deg,var(--cyan),var(--blue));background-clip:text;-webkit-background-clip:text;color:transparent} .intro{max-width:660px;color:var(--muted);font-size:18px;margin-bottom:28px}.actions{display:flex;gap:12px;flex-wrap:wrap}.btn{border:1px solid var(--border);border-radius:10px;padding:12px 19px;font-weight:750;display:inline-flex;align-items:center;gap:9px;transition:transform .2s,border-color .2s}.btn:hover{transform:translateY(-2px);border-color:var(--cyan)}.btn-primary{background:var(--cyan);color:#05101a;border-color:var(--cyan)}.btn-primary:hover{background:#73e6f7}.hero-card{padding:28px;border-radius:24px;background:linear-gradient(145deg,#14283e,#0b1525);border:1px solid #28435d;box-shadow:var(--shadow);position:relative;overflow:hidden}.hero-card:before{content:"";position:absolute;width:200px;height:200px;right:-95px;top:-80px;background:rgba(34,211,238,.12);filter:blur(30px);border-radius:50%}.avatar{width:76px;height:76px;object-fit:cover;border-radius:19px;border:2px solid rgba(34,211,238,.6)}.hero-card h2{margin:16px 0 4px;font-size:23px}.hero-card p{margin:0;color:var(--muted);font-size:14px}.terminal{margin-top:25px;background:#060e19;padding:18px;border:1px solid #24344b;border-radius:12px;color:#c9d9ec;font:13px/1.9 ui-monospace,SFMono-Regular,Consolas,monospace;word-break:break-word}.terminal .prompt{color:var(--cyan)}.terminal .value{color:var(--green)}
+    section{padding:44px 0 62px;scroll-margin-top:88px}.section-tag{font:700 12px/1.5 ui-monospace,monospace;letter-spacing:2px;text-transform:uppercase;color:var(--cyan)} .section-title{font-size:clamp(28px,4vw,40px);letter-spacing:-1.2px;margin:12px 0}.section-desc{margin:0 0 30px;max-width:660px;color:var(--muted)}.about-box{border:1px solid var(--border);background:var(--panel2);border-radius:17px;padding:28px;color:#c6d4e7}.about-box strong{color:#fff}
+    .grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}.project{display:flex;flex-direction:column;background:linear-gradient(165deg,var(--panel),#0c1422);border:1px solid var(--border);padding:25px;border-radius:16px;transition:transform .2s,border-color .2s}.project:hover{transform:translateY(-4px);border-color:#38a5c1}.project .project-icon{width:42px;height:42px;border-radius:12px;background:#122f40;color:var(--cyan);display:grid;place-items:center;font-size:21px;margin-bottom:16px}.project h3{font-size:18px;letter-spacing:-.35px;line-height:1.3;margin:0 0 9px}.project p{color:var(--muted);font-size:14px;margin:0 0 18px;flex:1}.tags{display:flex;flex-wrap:wrap;gap:7px;margin:0 0 20px}.tag{border:1px solid #294154;background:#142638;border-radius:7px;padding:3px 8px;font-size:11px;color:#a8dbe7}.project-link{color:var(--cyan);font-size:13px;font-weight:750;align-self:flex-start}.project-link:hover{text-decoration:underline}
+    .skills{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}.skill-card{border:1px solid var(--border);border-radius:16px;padding:23px;background:var(--panel2)}.skill-card h3{font-size:17px;margin:0 0 13px}.pills{display:flex;flex-wrap:wrap;gap:9px}.pill{padding:6px 11px;color:#d4e0f1;background:#172338;border:1px solid #283a52;border-radius:8px;font-size:12px}
+    .cta{padding:38px;display:flex;align-items:center;justify-content:space-between;gap:25px;border:1px solid #2b6271;border-radius:20px;background:linear-gradient(135deg,#112f3b,#0e1b31)}.cta h2{font-size:27px;margin:0 0 6px}.cta p{color:var(--muted);margin:0}.small{font-size:13px;color:var(--muted)}footer{margin-top:65px;border-top:1px solid var(--border);padding:27px 0;color:var(--muted);font-size:13px}.footer-row{display:flex;align-items:center;justify-content:space-between;gap:15px;flex-wrap:wrap}.footer-row a:hover{color:var(--cyan)}
+    @media(max-width:820px){.hero{grid-template-columns:1fr;padding:72px 0 50px;gap:25px}.hero-card{max-width:500px}.grid{grid-template-columns:repeat(2,minmax(0,1fr))}.navlinks{gap:14px}h1{letter-spacing:-2px}}@media(max-width:610px){.wrap{width:min(100% - 28px,1100px)}.navlinks a:nth-child(2),.navlinks a:nth-child(3){display:none}.grid,.skills{grid-template-columns:1fr}.cta{align-items:flex-start;flex-direction:column}.hero{padding-top:55px}section{padding:37px 0}.intro{font-size:16px}}
+    @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{transition:none!important;animation:none!important}}
+  </style>
+</head>
+<body>
+  <header><nav class="wrap" aria-label="Main navigation"><a class="brand" href="#home">FN<span>.</span></a><div class="navlinks"><a href="#about">About</a><a href="#projects">Projects</a><a href="#skills">Skills</a><a href="#contact">Contact</a><a href="https://github.com/fawaznasser" target="_blank" rel="noopener noreferrer">GitHub ↗</a></div></nav></header>
+  <main>
+    <div id="home" class="wrap hero"><div><div class="eyebrow"><span class="dot"></span> AI &amp; SOFTWARE ENGINEERING</div><h1>Hi, I'm Fawaz.<br><span>I build intelligent software.</span></h1><p class="intro">AI Full-Stack Software Engineer working across LLM applications, automation, backend systems, web and mobile products, and geospatial data platforms. I turn complex workflows into useful, working applications.</p><div class="actions"><a class="btn btn-primary" href="#projects">Explore my work ↗</a><a class="btn" href="https://github.com/fawaznasser" target="_blank" rel="noopener noreferrer">View GitHub profile ↗</a></div></div><aside class="hero-card" aria-label="Profile summary"><img class="avatar" src="https://github.com/fawaznasser.png" alt="Fawaz Nasser GitHub avatar"/><h2>Fawaz Nasser</h2><p>AI Full-Stack Software Engineer</p><div class="terminal"><div><span class="prompt">$</span> whoami</div><div><span class="value">→</span> Builder of AI-powered products</div><div><span class="prompt">$</span> focus --current</div><div><span class="value">→</span> LLMs · Agents · APIs · Full-stack</div><div><span class="prompt">$</span> location</div><div><span class="value">→</span> Beirut, Lebanon</div></div></aside></div>
+    <section id="about" class="wrap"><div class="section-tag">01 / ABOUT</div><h2 class="section-title">Engineering across the stack.</h2><p class="section-desc">From the AI model and data pipeline to the API and the interface.</p><div class="about-box">I build <strong>AI-enabled web and mobile applications</strong>, including conversational assistants, document-aware workflows, automation pipelines, and monitoring dashboards. My projects combine <strong>React, Next.js, TypeScript, Python, FastAPI, Node.js, and cloud services</strong> with practical AI integrations. I also work with <strong>geospatial visualization and data processing</strong> to make complex information accessible.</div></section>
+    <section id="projects" class="wrap"><div class="section-tag">02 / SELECTED WORK</div><h2 class="section-title">Featured projects.</h2><p class="section-desc">Actual repositories from my GitHub, organized by problem space.</p><div class="grid">
+      <article class="project"><div class="project-icon">⚡</div><h3>ArcVault · Request Triage</h3><p>Intelligent request triage with classification, entity extraction, routing, escalation, and audit output.</p><div class="tags"><span class="tag">Node.js</span><span class="tag">AI Workflows</span><span class="tag">Automation</span></div><a class="project-link" href="https://github.com/fawaznasser/aspire-project" target="_blank" rel="noopener noreferrer">View repository ↗</a></article>
+      <article class="project"><div class="project-icon">✳</div><h3>Benchmark Analyzer</h3><p>Multi-step AI-assisted content workflow with editable outputs, approval stages, and integrated model calls.</p><div class="tags"><span class="tag">React</span><span class="tag">Express</span><span class="tag">OpenAI API</span></div><a class="project-link" href="https://github.com/fawaznasser/Ai-workflowC" target="_blank" rel="noopener noreferrer">View repository ↗</a></article>
+      <article class="project"><div class="project-icon">◈</div><h3>CNRS Visualize</h3><p>Climate and flood data dashboard with geographic raster visualization, processing jobs, and APIs.</p><div class="tags"><span class="tag">Python</span><span class="tag">Docker</span><span class="tag">Celery</span><span class="tag">Redis</span></div><a class="project-link" href="https://github.com/fawaznasser/cnrs-visualize" target="_blank" rel="noopener noreferrer">View repository ↗</a></article>
+      <article class="project"><div class="project-icon">⌖</div><h3>Firemonitor</h3><p>Arabic Telegram message ingestion, geographic alert mapping, and optional local AI enrichment.</p><div class="tags"><span class="tag">FastAPI</span><span class="tag">Next.js</span><span class="tag">Leaflet</span><span class="tag">SQLite</span></div><a class="project-link" href="https://github.com/fawaznasser/firemonitor" target="_blank" rel="noopener noreferrer">View repository ↗</a></article>
+      <article class="project"><div class="project-icon">▦</div><h3>Heatwatch</h3><p>Geospatial heat-stress visualization for Lebanon, with shapefile workflows and generated map outputs.</p><div class="tags"><span class="tag">Python</span><span class="tag">JavaScript</span><span class="tag">GIS</span></div><a class="project-link" href="https://github.com/fawaznasser/heatwatch" target="_blank" rel="noopener noreferrer">View repository ↗</a></article>
+      <article class="project"><div class="project-icon">▣</div><h3>Encelyte</h3><p>Mobile experience for client profiles, technology surveys, and AI-powered recommendations.</p><div class="tags"><span class="tag">React Native</span><span class="tag">Expo</span><span class="tag">MongoDB</span></div><a class="project-link" href="https://github.com/fawaznasser/encelyte" target="_blank" rel="noopener noreferrer">View repository ↗</a></article>
+      <article class="project"><div class="project-icon">☁</div><h3>CourseMastery</h3><p>Course-content and learning-progress application using serverless AWS services and authentication.</p><div class="tags"><span class="tag">AWS Lambda</span><span class="tag">Cognito</span><span class="tag">DynamoDB</span></div><a class="project-link" href="https://github.com/fawaznasser/coursemastery" target="_blank" rel="noopener noreferrer">View repository ↗</a></article>
+      <article class="project"><div class="project-icon">◇</div><h3>Episense</h3><p>Mobile monitoring experience with status tracking, document sharing, alert history, and guardian management.</p><div class="tags"><span class="tag">Expo</span><span class="tag">React Native</span><span class="tag">Firebase</span></div><a class="project-link" href="https://github.com/fawaznasser/oramala" target="_blank" rel="noopener noreferrer">View repository ↗</a></article>
+      <article class="project"><div class="project-icon">↗</div><h3>REMwaste</h3><p>Responsive skip-hire booking experience with filtering by container size and price.</p><div class="tags"><span class="tag">React</span><span class="tag">TypeScript</span><span class="tag">Node.js</span></div><a class="project-link" href="https://github.com/fawaznasser/REMwaste" target="_blank" rel="noopener noreferrer">View repository ↗</a></article>
+    </div><p class="small" style="margin-top:20px">More work: <a style="color:var(--cyan)" href="https://github.com/fawaznasser?tab=repositories" target="_blank" rel="noopener noreferrer">Browse all repositories ↗</a></p></section>
+    <section id="skills" class="wrap"><div class="section-tag">03 / TOOLKIT</div><h2 class="section-title">Skills &amp; technologies.</h2><p class="section-desc">A full-stack toolkit with a practical emphasis on applied AI and reliable software systems.</p><div class="skills">
+      <div class="skill-card"><h3>AI, LLMs &amp; Automation</h3><div class="pills"><span class="pill">LLM Applications</span><span class="pill">OpenAI API</span><span class="pill">Ollama</span><span class="pill">RAG</span><span class="pill">AI Agents</span><span class="pill">n8n</span><span class="pill">Workflow Orchestration</span></div></div>
+      <div class="skill-card"><h3>Frontend &amp; Mobile</h3><div class="pills"><span class="pill">React</span><span class="pill">Next.js</span><span class="pill">TypeScript</span><span class="pill">JavaScript</span><span class="pill">Tailwind CSS</span><span class="pill">React Native</span><span class="pill">Expo</span></div></div>
+      <div class="skill-card"><h3>Backend, Data &amp; Cloud</h3><div class="pills"><span class="pill">Python</span><span class="pill">FastAPI</span><span class="pill">Node.js</span><span class="pill">Express</span><span class="pill">PostgreSQL</span><span class="pill">MongoDB</span><span class="pill">Docker</span><span class="pill">AWS</span></div></div>
+      <div class="skill-card"><h3>Mapping &amp; Data Visualization</h3><div class="pills"><span class="pill">Leaflet</span><span class="pill">GIS</span><span class="pill">Geospatial Pipelines</span><span class="pill">Raster Data</span><span class="pill">Analytics Dashboards</span><span class="pill">Data Processing</span></div></div>
+    </div></section>
+    <section id="contact" class="wrap"><div class="cta"><div><div class="section-tag">04 / CONNECT</div><h2>Explore what I'm building.</h2><p>Browse my code, projects, and ongoing engineering work on GitHub.</p></div><a class="btn btn-primary" href="https://github.com/fawaznasser" target="_blank" rel="noopener noreferrer">Find me on GitHub ↗</a></div></section>
+  </main>
+  <footer><div class="wrap footer-row"><span>© <span id="year">2026</span> Fawaz Nasser · Built with HTML &amp; CSS</span><a href="https://github.com/fawaznasser" target="_blank" rel="noopener noreferrer">github.com/fawaznasser ↗</a></div></footer>
+  <script>document.getElementById('year').textContent = new Date().getFullYear();</script>
+</body>
+</html>
