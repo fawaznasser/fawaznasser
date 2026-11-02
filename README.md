@@ -39,6 +39,36 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawaznasser&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Top languages" height="170" />
 </div>
 
+<h2>Explore More — Interactive Section</h2>
+<p>Open a panel to explore my work, tools, and how I approach building AI products.</p>
+
+<details>
+  <summary><strong>🤖 Explore my AI engineering workflow</strong> — click to expand</summary>
+  <br />
+  <p><strong>From idea to deployed AI product:</strong></p>
+  <p>Define the problem → design data and API flows → integrate LLMs / agents → evaluate quality and latency → add monitoring and human review → deploy and iterate.</p>
+  <p><a href="https://github.com/fawaznasser/aspire-project">See an AI triage project →</a> &nbsp;|&nbsp; <a href="https://github.com/fawaznasser/Ai-workflowC">See an AI workflow project →</a></p>
+</details>
+
+<details>
+  <summary><strong>🧭 Pick a project category</strong> — click to explore</summary>
+  <br />
+  <table>
+    <tr><th>Interested in...</th><th>Start here</th></tr>
+    <tr><td>AI agents &amp; automation</td><td><a href="https://github.com/fawaznasser/aspire-project">ArcVault</a> · <a href="https://github.com/fawaznasser/Ai-workflowC">Benchmark Analyzer</a></td></tr>
+    <tr><td>Geospatial dashboards</td><td><a href="https://github.com/fawaznasser/cnrs-visualize">CNRS Visualize</a> · <a href="https://github.com/fawaznasser/heatwatch">HeatWatch</a></td></tr>
+    <tr><td>Monitoring &amp; maps</td><td><a href="https://github.com/fawaznasser/firemonitor">Fire Monitor</a></td></tr>
+    <tr><td>Mobile apps</td><td><a href="https://github.com/fawaznasser/encelyte">Encelyte</a></td></tr>
+  </table>
+</details>
+
+<details>
+  <summary><strong>💬 Want to collaborate?</strong> — click to connect</summary>
+  <br />
+  <p>I'm interested in AI-powered applications, chatbots, RAG systems, automation, and end-to-end full-stack development.</p>
+  <p><a href="https://github.com/fawaznasser">Visit my GitHub profile</a> · <a href="https://github.com/fawaznasser?tab=repositories">Browse all repositories</a></p>
+</details>
+
 <div align="center">
   <p><strong>Interested in AI engineering, full-stack development, and meaningful software.</strong></p>
   <a href="https://github.com/fawaznasser?tab=repositories"><img src="https://img.shields.io/badge/View_All_Repositories-0891b2?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View all repositories" /></a>
