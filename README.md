@@ -20,8 +20,9 @@
 <tr><td><a href="https://github.com/fawaznasser/aspire-project"><strong>ArcVault</strong></a></td><td>AI-assisted request triage, classification, routing, and escalation.</td><td>Node.js, AI integrations</td></tr>
 <tr><td><a href="https://github.com/fawaznasser/Ai-workflowC"><strong>Benchmark Analyzer</strong></a></td><td>AI-powered workflow with editable content and review stages.</td><td>React, Express, OpenAI API</td></tr>
 <tr><td><a href="https://github.com/fawaznasser/cnrs-visualize"><strong>CNRS Visualize</strong></a></td><td>Environmental and climate data visualization and processing.</td><td>Python, Celery, Redis, Docker</td></tr>
-<tr><td><a href="https://github.com/fawaznasser/firemonitor"><strong>Fire Monitor</strong></a></td><td>Location-aware alerts, Telegram ingestion, and interactive maps.</td><td>FastAPI, Next.js, Leaflet</td></tr>
-<tr><td><a href="https://github.com/fawaznasser/heatwatch"><strong>HeatWatch</strong></a></td><td>Heat-stress mapping and geospatial image generation.</td><td>Python, JavaScript</td></tr>
+<tr><td><a href="https://github.com/fawaznasser/firemonitor"><strong>Fire Monitor</strong></a></td><td>Location-aware incident monitoring, Telegram ingestion, and interactive maps.<br /><a href="https://war.cnrs.edu.lb/">🌐 Live dashboard</a></td><td>FastAPI, Next.js, Leaflet</td></tr>
+<tr><td><a href="https://github.com/fawaznasser/redalert"><strong>Red Alert / Air Violations</strong></a></td><td>Air activity and violations monitoring with mapped alerts.<br /><a href="https://war.cnrs.edu.lb/redalert">🌐 Live dashboard</a></td><td>FastAPI, Next.js, Leaflet</td></tr>
+<tr><td><a href="https://github.com/fawaznasser/heatwatch"><strong>HeatWatch</strong></a></td><td>Heat-stress mapping and geospatial image generation.<br /><a href="https://heat.cnrs.edu.lb/">🌐 Live dashboard</a></td><td>Python, JavaScript</td></tr>
 <tr><td><a href="https://github.com/fawaznasser/encelyte"><strong>Encelyte</strong></a></td><td>Mobile client profiling and AI-powered recommendations.</td><td>React Native, Expo, MongoDB</td></tr>
 </table><h2>Explore More — Interactive Section</h2>
 <p>Open a panel to explore my work, tools, and how I approach building AI products.</p><details>
@@ -36,8 +37,8 @@
   <table>
     <tr><th>Interested in...</th><th>Start here</th></tr>
     <tr><td>AI agents &amp; automation</td><td><a href="https://github.com/fawaznasser/aspire-project">ArcVault</a> · <a href="https://github.com/fawaznasser/Ai-workflowC">Benchmark Analyzer</a></td></tr>
-    <tr><td>Geospatial dashboards</td><td><a href="https://github.com/fawaznasser/cnrs-visualize">CNRS Visualize</a> · <a href="https://github.com/fawaznasser/heatwatch">HeatWatch</a></td></tr>
-    <tr><td>Monitoring &amp; maps</td><td><a href="https://github.com/fawaznasser/firemonitor">Fire Monitor</a></td></tr>
+    <tr><td>Geospatial dashboards</td><td><a href="https://github.com/fawaznasser/cnrs-visualize">CNRS Visualize</a> · <a href="https://github.com/fawaznasser/heatwatch">HeatWatch</a> · <a href="https://heat.cnrs.edu.lb/">Live heat map</a></td></tr>
+    <tr><td>Monitoring &amp; maps</td><td><a href="https://github.com/fawaznasser/firemonitor">Fire Monitor</a> · <a href="https://war.cnrs.edu.lb/">Live war monitor</a> · <a href="https://github.com/fawaznasser/redalert">Red Alert</a> · <a href="https://war.cnrs.edu.lb/redalert">Live air monitor</a></td></tr>
     <tr><td>Mobile apps</td><td><a href="https://github.com/fawaznasser/encelyte">Encelyte</a></td></tr>
   </table>
 </details><details>
